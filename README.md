@@ -1,2 +1,2 @@
 # Deep-Learning
-Lab work for Deep Learning
+Learnings and projects for Deep Learning
